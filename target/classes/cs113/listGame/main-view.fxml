@@ -121,7 +121,7 @@
          <children>
             <ImageView fx:id="playerImage" fitHeight="75.0" fitWidth="75.0" layoutX="75.0" layoutY="75.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@images/dr house.png" />
+                  <Image url="@images/Wilson_Player.png" />
                </image>
             </ImageView>
             <ImageView fx:id="resourceImageA" fitHeight="25.0" fitWidth="25.0" layoutX="200.0" layoutY="150.0" pickOnBounds="true" preserveRatio="true">
@@ -141,22 +141,22 @@
             </ImageView>
             <ImageView fx:id="enemyImageA" fitHeight="75.0" fitWidth="75.0" layoutX="300.0" layoutY="150.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@images/enemyArray.png" />
+                  <Image url="@images/House_Array.png" />
                </image>
             </ImageView>
             <ImageView fx:id="enemyImageB" fitHeight="75.0" fitWidth="75.0" layoutX="450.0" layoutY="300.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@images/enemyList.png" />
+                  <Image url="@images/House_List.png" />
                </image>
             </ImageView>
             <ImageView fx:id="enemyImageC" fitHeight="75.0" fitWidth="75.0" layoutX="200.0" layoutY="400.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@images/enemyStack.png" />
+                  <Image url="@images/House_Stack.png" />
                </image>
             </ImageView>
             <ImageView fx:id="enemyImageD" fitHeight="75.0" fitWidth="75.0" layoutX="50.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@images/enemyStack.png" />
+                  <Image url="@images/House_Stack.png" />
                </image>
             </ImageView>
             <ImageView fx:id="goalImage" fitHeight="150.0" fitWidth="150.0" layoutX="600.0" layoutY="450.0" pickOnBounds="true" preserveRatio="true">
